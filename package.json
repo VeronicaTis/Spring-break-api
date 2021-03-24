@@ -1,0 +1,24 @@
+{
+  "name": "spring-break-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeronicaTis/Spring-break-api.git"
+  },
+  "keywords": [],
+  "author": "Veronica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeronicaTis/Spring-break-api/issues"
+  },
+  "homepage": "https://github.com/VeronicaTis/Spring-break-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^68.0.0"
+  }
+}
